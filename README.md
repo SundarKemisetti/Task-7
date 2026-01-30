@@ -1,1 +1,1 @@
-# Task-7
+Observing responses, documenting vulnerabilities, and suggesting mitigations are essential phases of a secure web application testing process. These steps help in identifying weaknesses, understanding their impact, and strengthening the application against cyber attacks.
